@@ -7,7 +7,7 @@ description: 有关技术和相关内容的博客
 
 # if it's an external image, update below for true
 # better with square images
-external-image: true
+external-image: false
 picture: assets/profile/profile.webp
 
 # If you want to include your resume, set to true
