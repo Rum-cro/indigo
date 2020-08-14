@@ -1,14 +1,14 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Rum's Blog
+bio: 一个喜爱灰原哀的男孩
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: 有关技术和相关内容的博客
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
-picture: assets/images/profile.jpg
+external-image: true
+picture: https://gitee.com/Rum-cro/Myage/raw/master/2020/05/music.webp
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
