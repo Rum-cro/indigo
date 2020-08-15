@@ -35,30 +35,31 @@ disqus:
 
 # if you don't have any of social below, comment the line
 facebook: Rum.cro
-twitter: mytwitter
-# instagram: myinstagram
+# twitter: mytwitter
+# instagram: 
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: Rum-cro
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+# email: myemail@gmail.com
 
 authors:
   johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+    name: Rum
+    bio: 一个喜爱灰原哀的男孩
     external-image: false
     picture: assets/images/profile.jpg
     twitter: johndoe
+  ```
   jamesfoster:
     name: James Foster
     bio: A Man who develops software with coffee
