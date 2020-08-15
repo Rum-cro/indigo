@@ -4,7 +4,6 @@ layout: post
 date: 202020-08-14 22:48
 image: /assets/images/markdown.jpg
 headerImage: false
-page: 1
 tag:
 - markdown
 - components
