@@ -74,8 +74,8 @@ width: normal
 
 # if you do/don't need pagination, toggle 'enabled' between true/false below
 pagination:
-  enabled: true
-  sort_reverse: false # display recent posts first
+  enabled: false
+  sort_reverse: true# display recent posts first
   title: ":title" # Changing this will mess up the header display logic
   per_page: 5
   permalink: "/:num/" # pagination link that will be appended
