@@ -53,19 +53,19 @@ github: Rum-cro
 # email: myemail@gmail.com
 
 authors:
-  johndoe:
+  Rum:
     name: Rum
     bio: 一个喜爱灰原哀的男孩
     external-image: false
     picture: assets/images/profile.jpg
     twitter: johndoe
     
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+ #  jamesfoster:
+ #  name: James Foster
+ #  bio: A Man who develops software with coffee
+ #  external-image: false
+ #  picture: assets/images/james.jpg
+ #  twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -74,7 +74,7 @@ width: normal
 
 # if you do/don't need pagination, toggle 'enabled' between true/false below
 pagination:
-  enabled: false
+  enabled: true
   sort_reverse: true # display recent posts first
   title: ":title" # Changing this will mess up the header display logic
   per_page: 5
